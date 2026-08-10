@@ -1,9 +1,548 @@
 [
   {
-    "id": "shamela_full_5955",
+    "id": "shamela_full_5954",
     "title": "كتاب من كلام أبي زكريا يحيى بن معين في الرجال",
     "format": "txt",
     "pages_crawled": 20,
-    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_5955.txt"
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_5954.txt"
+  },
+  {
+    "id": "shamela_full_6038",
+    "title": "كتاب العلل لابن المديني",
+    "format": "txt",
+    "pages_crawled": 67,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6038.txt"
+  },
+  {
+    "id": "shamela_full_5947",
+    "title": "كتاب سؤالات ابن أبي شيبة لابن المديني",
+    "format": "txt",
+    "pages_crawled": 131,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_5947.txt"
+  },
+  {
+    "id": "shamela_full_20868",
+    "title": "كتاب الجامع لعلوم الإمام أحمد - علل الحديث",
+    "format": "txt",
+    "pages_crawled": 868,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_20868.txt"
+  },
+  {
+    "id": "shamela_full_2331",
+    "title": "كتاب العلل ومعرفة الرجال لأحمد رواية ابنه عبد الله",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_2331.txt"
+  },
+  {
+    "id": "shamela_full_6044",
+    "title": "كتاب العلل ومعرفة الرجال لأحمد رواية المروذي وغيره ت صبحي السامرائي",
+    "format": "txt",
+    "pages_crawled": 157,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6044.txt"
+  },
+  {
+    "id": "shamela_full_10272",
+    "title": "كتاب العلل ومعرفة الرجال لأحمد رواية المروذي وغيره ت وصي الله عباس",
+    "format": "txt",
+    "pages_crawled": 256,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_10272.txt"
+  },
+  {
+    "id": "shamela_full_5945",
+    "title": "كتاب سؤالات أبي داود للإمام أحمد",
+    "format": "txt",
+    "pages_crawled": 219,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_5945.txt"
+  },
+  {
+    "id": "shamela_full_25873",
+    "title": "كتاب سؤالات الاثرم لأحمد بن حنبل",
+    "format": "txt",
+    "pages_crawled": 29,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_25873.txt"
+  },
+  {
+    "id": "shamela_full_96609",
+    "title": "كتاب علل الحديث - الفلاس",
+    "format": "txt",
+    "pages_crawled": 321,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_96609.txt"
+  },
+  {
+    "id": "shamela_full_6048",
+    "title": "كتاب التمييز لمسلم",
+    "format": "txt",
+    "pages_crawled": 52,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6048.txt"
+  },
+  {
+    "id": "shamela_full_12698",
+    "title": "كتاب سؤالات ابن الجنيد ليحيى بن معين",
+    "format": "txt",
+    "pages_crawled": 218,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_12698.txt"
+  },
+  {
+    "id": "shamela_full_13131",
+    "title": "كتاب العلل الكبير للترمذي = ترتيب علل الترمذي الكبير",
+    "format": "txt",
+    "pages_crawled": 958,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_13131.txt"
+  },
+  {
+    "id": "shamela_full_642",
+    "title": "كتاب العلل الواقع بآخر جامع الترمذي - ت بشار",
+    "format": "txt",
+    "pages_crawled": 81,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_642.txt"
+  },
+  {
+    "id": "shamela_full_5897",
+    "title": "كتاب العلل الواقع بآخر جامع الترمذي - ت شاكر",
+    "format": "txt",
+    "pages_crawled": 15,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_5897.txt"
+  },
+  {
+    "id": "shamela_full_1448",
+    "title": "كتاب العلل الواقع بآخر جامع الترمذي - ط الرسالة",
+    "format": "txt",
+    "pages_crawled": 50,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1448.txt"
+  },
+  {
+    "id": "shamela_full_26230",
+    "title": "كتاب مسائل ابن أبي شيبة عن شيوخه",
+    "format": "txt",
+    "pages_crawled": 38,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_26230.txt"
+  },
+  {
+    "id": "shamela_full_6049",
+    "title": "كتاب علل الأحاديث في صحيح مسلم",
+    "format": "txt",
+    "pages_crawled": 94,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6049.txt"
+  },
+  {
+    "id": "shamela_full_13041",
+    "title": "كتاب الضعفاء الكبير للعقيلي",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_13041.txt"
+  },
+  {
+    "id": "shamela_full_1350",
+    "title": "كتاب العلل لابن أبي حاتم ت الحميد",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1350.txt"
+  },
+  {
+    "id": "shamela_full_6046",
+    "title": "كتاب المراسيل لابن أبي حاتم",
+    "format": "txt",
+    "pages_crawled": 262,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6046.txt"
+  },
+  {
+    "id": "shamela_full_5950",
+    "title": "كتاب سؤالات الحاكم للدارقطني",
+    "format": "txt",
+    "pages_crawled": 204,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_5950.txt"
+  },
+  {
+    "id": "shamela_full_9082",
+    "title": "كتاب علل الدارقطني = العلل الواردة في الأحاديث النبوية",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_9082.txt"
+  },
+  {
+    "id": "shamela_full_535",
+    "title": "كتاب سؤالات السجزي للحاكم",
+    "format": "txt",
+    "pages_crawled": 197,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_535.txt"
+  },
+  {
+    "id": "shamela_full_1680",
+    "title": "كتاب سؤالات السلمي للدارقطني",
+    "format": "txt",
+    "pages_crawled": 443,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1680.txt"
+  },
+  {
+    "id": "shamela_full_11237",
+    "title": "كتاب سؤالات البرقاني للدارقطني ت القشقري",
+    "format": "txt",
+    "pages_crawled": 83,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_11237.txt"
+  },
+  {
+    "id": "shamela_full_1060",
+    "title": "كتاب سؤالات البرقاني للدارقطني ت مجدي السيد",
+    "format": "txt",
+    "pages_crawled": 80,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1060.txt"
+  },
+  {
+    "id": "shamela_full_2491",
+    "title": "كتاب سؤالات حمزة للدارقطني",
+    "format": "txt",
+    "pages_crawled": 279,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_2491.txt"
+  },
+  {
+    "id": "shamela_full_6083",
+    "title": "كتاب أطراف الغرائب والأفراد",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6083.txt"
+  },
+  {
+    "id": "shamela_full_1578",
+    "title": "تذكرة الحفاظ لابن القيسراني =أطراف أحاديث كتاب المجروحين لابن حبان",
+    "format": "txt",
+    "pages_crawled": 431,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1578.txt"
+  },
+  {
+    "id": "shamela_full_6060",
+    "title": "كتاب ذخيرة الحفاظ",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6060.txt"
+  },
+  {
+    "id": "shamela_full_6080",
+    "title": "كتاب معرفة التذكرة",
+    "format": "txt",
+    "pages_crawled": 188,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6080.txt"
+  },
+  {
+    "id": "shamela_full_26209",
+    "title": "كتاب سؤالات السلفي لخميس الحوزي",
+    "format": "txt",
+    "pages_crawled": 83,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_26209.txt"
+  },
+  {
+    "id": "shamela_full_9642",
+    "title": "كتاب الأباطيل والمناكير والصحاح والمشاهير",
+    "format": "txt",
+    "pages_crawled": 827,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_9642.txt"
+  },
+  {
+    "id": "shamela_full_7351",
+    "title": "كتاب العلل المتناهية في الأحاديث الواهية",
+    "format": "txt",
+    "pages_crawled": 947,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_7351.txt"
+  },
+  {
+    "id": "shamela_full_3617",
+    "title": "كتاب القصاص والمذكرين",
+    "format": "txt",
+    "pages_crawled": 209,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_3617.txt"
+  },
+  {
+    "id": "shamela_full_882",
+    "title": "كتاب الموضوعات لابن الجوزي",
+    "format": "txt",
+    "pages_crawled": 1008,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_882.txt"
+  },
+  {
+    "id": "shamela_full_26075",
+    "title": "كتاب المنتخب من علل الخلال",
+    "format": "txt",
+    "pages_crawled": 226,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_26075.txt"
+  },
+  {
+    "id": "shamela_full_6065",
+    "title": "المغني عن الحفظ والكتاب",
+    "format": "txt",
+    "pages_crawled": 103,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6065.txt"
+  },
+  {
+    "id": "shamela_full_16636",
+    "title": "كتاب بغية النقاد النقلة",
+    "format": "txt",
+    "pages_crawled": 1124,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_16636.txt"
+  },
+  {
+    "id": "shamela_full_6070",
+    "title": "كتاب الموضوعات للصغاني",
+    "format": "txt",
+    "pages_crawled": 61,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6070.txt"
+  },
+  {
+    "id": "shamela_full_2749",
+    "title": "كتاب غرر الفوائد المجموعة",
+    "format": "txt",
+    "pages_crawled": 194,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_2749.txt"
+  },
+  {
+    "id": "shamela_full_11569",
+    "title": "كتاب تعليقة على العلل لابن أبي حاتم ت جاد الله",
+    "format": "txt",
+    "pages_crawled": 292,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_11569.txt"
+  },
+  {
+    "id": "shamela_full_6071",
+    "title": "كتاب أحاديث مختارة من موضوعات الجورقاني وابن الجوزي",
+    "format": "txt",
+    "pages_crawled": 129,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6071.txt"
+  },
+  {
+    "id": "shamela_full_6068",
+    "title": "تلخيص كتاب الموضوعات",
+    "format": "txt",
+    "pages_crawled": 345,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6068.txt"
+  },
+  {
+    "id": "shamela_full_8566",
+    "title": "كتاب المنار المنيف في الصحيح والضعيف - ت أبي غدة",
+    "format": "txt",
+    "pages_crawled": 135,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_8566.txt"
+  },
+  {
+    "id": "shamela_full_9388",
+    "title": "كتاب المنار المنيف في الصحيح والضعيف - ط عطاءات العلم",
+    "format": "txt",
+    "pages_crawled": 182,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_9388.txt"
+  },
+  {
+    "id": "shamela_full_185",
+    "title": "العلل الواقعة في كتاب الجامع الصحيح للبخاري",
+    "format": "txt",
+    "pages_crawled": 47,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_185.txt"
+  },
+  {
+    "id": "shamela_full_18315",
+    "title": "كتاب الزيادات على الموضوعات",
+    "format": "txt",
+    "pages_crawled": 1148,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_18315.txt"
+  },
+  {
+    "id": "shamela_full_6062",
+    "title": "كتاب اللآلئ المصنوعة في الأحاديث الموضوعة",
+    "format": "txt",
+    "pages_crawled": 826,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6062.txt"
+  },
+  {
+    "id": "shamela_full_6073",
+    "title": "كتاب تحذير الخواص من أكاذيب القصاص",
+    "format": "txt",
+    "pages_crawled": 232,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6073.txt"
+  },
+  {
+    "id": "shamela_full_1432",
+    "title": "كتاب تنزيه الشريعة المرفوعة عن الأخبار الشنيعة الموضوعة",
+    "format": "txt",
+    "pages_crawled": 824,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1432.txt"
+  },
+  {
+    "id": "shamela_full_1922",
+    "title": "كتاب الفتاوى الحديثية لابن حجر الهيتمي",
+    "format": "txt",
+    "pages_crawled": 240,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1922.txt"
+  },
+  {
+    "id": "shamela_full_12738",
+    "title": "كتاب تذكرة الموضوعات للفتني",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_12738.txt"
+  },
+  {
+    "id": "shamela_full_6056",
+    "title": "كتاب الأسرار المرفوعة في الأخبار الموضوعة",
+    "format": "txt",
+    "pages_crawled": 496,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6056.txt"
+  },
+  {
+    "id": "shamela_full_6064",
+    "title": "كتاب المصنوع في معرفة الحديث الموضوع",
+    "format": "txt",
+    "pages_crawled": 215,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6064.txt"
+  },
+  {
+    "id": "shamela_full_6051",
+    "title": "كتاب الفوائد الموضوعة في الأحاديث الموضوعة",
+    "format": "txt",
+    "pages_crawled": 80,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6051.txt"
+  },
+  {
+    "id": "shamela_full_6077",
+    "title": "كتاب الجد الحثيث في بيان ما ليس بحديث",
+    "format": "txt",
+    "pages_crawled": 227,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6077.txt"
+  },
+  {
+    "id": "shamela_full_6079",
+    "title": "كتاب النخبة البهية في الأحاديث المكذوبة على خير البرية",
+    "format": "txt",
+    "pages_crawled": 113,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6079.txt"
+  },
+  {
+    "id": "shamela_full_6053",
+    "title": "كتاب الآثار المرفوعة في الأخبار الموضوعة",
+    "format": "txt",
+    "pages_crawled": 141,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6053.txt"
+  },
+  {
+    "id": "shamela_full_6063",
+    "title": "كتاب اللؤلؤ المرصوع",
+    "format": "txt",
+    "pages_crawled": 219,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_6063.txt"
+  },
+  {
+    "id": "shamela_full_395",
+    "title": "كتاب الأحاديث التي استشهد بها مسلم في بحث الخلاف في اشتراط العلم باللقاء - ضمن «آثار المعلمي»",
+    "format": "txt",
+    "pages_crawled": 20,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_395.txt"
+  },
+  {
+    "id": "shamela_full_398",
+    "title": "فوائد في كتاب «العلل» لابن أبي حاتم - ضمن «آثار المعلمي»",
+    "format": "txt",
+    "pages_crawled": 9,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_398.txt"
+  },
+  {
+    "id": "shamela_full_12756",
+    "title": "كتاب أحاديث معلة ظاهرها الصحة",
+    "format": "txt",
+    "pages_crawled": 482,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_12756.txt"
+  },
+  {
+    "id": "shamela_full_22853",
+    "title": "كتاب تكميل النفع بما لم يثبت به وقف ولا رفع",
+    "format": "txt",
+    "pages_crawled": 123,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_22853.txt"
+  },
+  {
+    "id": "shamela_full_2754",
+    "title": "كتاب سؤالات الترمذي للبخاري حول أحاديث في جامع الترمذي",
+    "format": "txt",
+    "pages_crawled": 886,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_2754.txt"
+  },
+  {
+    "id": "shamela_full_1329",
+    "title": "كتاب أوهام المحدثين الثقات",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1329.txt"
+  },
+  {
+    "id": "shamela_full_1526",
+    "title": "كتاب الجامع في العلل والفوائد",
+    "format": "txt",
+    "pages_crawled": 1500,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_1526.txt"
+  },
+  {
+    "id": "shamela_full_862",
+    "title": "كتاب إسعاف الأخيار بما اشتهر ولم يصح من الأحاديث والآثار والقصص والأشعار",
+    "format": "txt",
+    "pages_crawled": 1026,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_862.txt"
+  },
+  {
+    "id": "shamela_full_11401",
+    "title": "كتاب ابن قيم الجوزية وجهوده في خدمة السنة النبوية وعلومها",
+    "format": "txt",
+    "pages_crawled": 1458,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_11401.txt"
+  },
+  {
+    "id": "shamela_full_5917",
+    "title": "كتاب الحجة بضعف حديث من صلى ركعتين بعد الصبح فله أجر عمرة وحجة",
+    "format": "txt",
+    "pages_crawled": 18,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_5917.txt"
+  },
+  {
+    "id": "shamela_full_9499",
+    "title": "كتاب قواعد العلل وقرائن الترجيح",
+    "format": "txt",
+    "pages_crawled": 121,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_9499.txt"
+  },
+  {
+    "id": "shamela_full_9557",
+    "title": "كتاب التعريف بعلم العلل",
+    "format": "txt",
+    "pages_crawled": 15,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_9557.txt"
+  },
+  {
+    "id": "shamela_full_117137",
+    "title": "كتاب العبارة المختصرة في علة حديث إن هذه الحشوش محتضرة",
+    "format": "txt",
+    "pages_crawled": 6,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_117137.txt"
+  },
+  {
+    "id": "shamela_full_13281",
+    "title": "منهج الإمام الدارقطني في نقد الحديث في كتاب العلل",
+    "format": "txt",
+    "pages_crawled": 378,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_13281.txt"
+  },
+  {
+    "id": "shamela_full_14479",
+    "title": "كتاب الأحاديث التي أعل الإمام البخاري متونها بالتناقض",
+    "format": "txt",
+    "pages_crawled": 96,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_14479.txt"
+  },
+  {
+    "id": "shamela_full_30132",
+    "title": "كتاب التيسير والتبصير لما فات البخاري في العلل الكبير",
+    "format": "txt",
+    "pages_crawled": 282,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_30132.txt"
+  },
+  {
+    "id": "shamela_full_30146",
+    "title": "كتاب أحاديث ضعاف وعليها العمل بغير خلاف",
+    "format": "txt",
+    "pages_crawled": 132,
+    "bookUrl": "https://raw.githubusercontent.com/houlaihelali/devdocu-arabic-books/main/shamela_full_30146.txt"
   }
 ]
